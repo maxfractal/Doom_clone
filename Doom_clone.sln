@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33110.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Doom_clone", "Doom_clone.pyproj", "{83FF0CA9-FAD5-4107-9857-2FD7E898AE30}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{83FF0CA9-FAD5-4107-9857-2FD7E898AE30}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{83FF0CA9-FAD5-4107-9857-2FD7E898AE30}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D9D784AB-59AB-487A-B638-9E4E11EA30E2}
+	EndGlobalSection
+EndGlobal
